@@ -5,6 +5,7 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DB2CodeStyleSettings version="2">
     <option name="USE_GENERIC_STYLE" value="true" />
   </DB2CodeStyleSettings>
@@ -23,6 +24,16 @@
   <MySQLCodeStyleSettings version="2">
     <option name="USE_GENERIC_STYLE" value="true" />
   </MySQLCodeStyleSettings>
+  <Objective-C>
+    <option name="INDENT_VISIBILITY_KEYWORDS" value="4" />
+  </Objective-C>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="SNAKE_CASE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cu" header="cuh" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
   <OracleCodeStyleSettings version="2">
     <option name="USE_GENERIC_STYLE" value="true" />
   </OracleCodeStyleSettings>
