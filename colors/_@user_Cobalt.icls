@@ -3,7 +3,7 @@
     <property name="created">2020-08-06T00:39:24</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-08-06T16:11:46</property>
+    <property name="modified">2020-08-06T17:48:58</property>
     <property name="originalScheme">Cobalt</property>
   </metaInfo>
   <colors>
@@ -1488,7 +1488,7 @@
         <option name="FOREGROUND" value="e1efff" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="" />
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="ffb054" />
